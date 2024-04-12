@@ -44,5 +44,5 @@ boxes.forEach(box => {
 
 const boxes2 = gsap.utils.toArray('.my-vid');
 boxes2.forEach(box2 => {
-  gsap.fromTo(box2, {y: 0, opacity: 1,}, {y: 0, opacity: 1, scrollTrigger: {trigger: box2, start: "top top", end: "center 1%", scrubDelay: 1, scrub: true}})
+  gsap.fromTo(box2, {y: 80, opacity: 1,}, {y: 0, opacity: 1, scrollTrigger: {trigger: box2, start: "top top", end: "center 1%", scrubDelay: 1, scrub: true}})
 });

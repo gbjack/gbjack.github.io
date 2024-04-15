@@ -1,2 +1,2 @@
-# My Portfolio website
-Digital designer and email coder.
+# Portfolio website
+Senior Digital Designer, and Email Coder.

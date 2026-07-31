@@ -1,2 +1,2 @@
 # Portfolio website
-Senior Digital Designer, and Email Coder.
+Creative Designer, and Email Coder.
